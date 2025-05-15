@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         
-        ContaBancaria conta = new ContaBancaria(12345, "João Silva", 1000.00);
+        ContaBancaria conta = new ContaBancaria(12345, "Gustavo Assis", 1000.00);
 
         System.out.println("Informações iniciais da conta:");
         conta.exibirInformacoes();
